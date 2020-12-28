@@ -1,6 +1,0 @@
-Doing some changes here to
-
-Doing some change in the Master
-Now I am also doing some change here.
-
-making a change in newBranch
